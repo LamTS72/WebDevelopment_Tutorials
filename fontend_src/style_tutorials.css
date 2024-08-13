@@ -1,0 +1,54 @@
+/* comment style */
+body{
+    background-color: bisque;
+}
+#welcome{
+    color: chartreuse;
+    background-color: coral;
+}
+
+h2.heading{
+    color: brown;
+}
+
+p.heading{
+    color: blueviolet;
+}
+
+#game{
+    max-width: 500px;
+    max-height: 400px;
+    background-color: lightgray;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#stats{
+    border: 1px solid black;
+    padding: 5px;
+    color: black;
+}
+
+#controls{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#monsterStats{
+    display: none;
+    border: 1px solid black;
+    color: white;
+    padding: 5px;
+    background-color: red;
+}
+
+.stat{
+    padding-right: 10px;
+} 
+
+#text{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}

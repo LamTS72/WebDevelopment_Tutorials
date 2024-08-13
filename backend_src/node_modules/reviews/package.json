@@ -1,0 +1,24 @@
+{
+  "name": "reviews",
+  "version": "0.1.0",
+  "description": "react view components",
+  "main": "package.json",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimzhan/reviews.git"
+  },
+  "keywords": [
+    "react",
+    "views",
+    "components"
+  ],
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jimzhan/reviews/issues"
+  },
+  "homepage": "https://github.com/jimzhan/reviews#readme"
+}
